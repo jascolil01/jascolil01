@@ -1,3 +1,6 @@
+# 💫 About Me:
+🔭 I’m currently working on Personal Projects<br>👯 I’m looking to collaborate on Anything<br>🤝 I’m looking for help with learning C++<br>🌱 I’m currently learning Python<br>💬 Ask me about my favorite thing to do<br>⚡ Fun fact I am a fast learner
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joshuaascolillo) 
